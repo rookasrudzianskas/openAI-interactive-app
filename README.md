@@ -14,3 +14,4 @@ https://rookas-open-ai-explain.web.app
 
 Backend:
 
+https://rookas-open-ai-custom-implementation.onrender.com
